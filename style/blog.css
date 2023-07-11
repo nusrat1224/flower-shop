@@ -1,0 +1,40 @@
+.header{
+    background-color: #E554731A;
+}
+.banner{
+     display: flex; 
+     padding: 240px; 
+     align-items: center;
+    
+}
+.image{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
+.banner-greeting{
+    /* width: 708px; */
+    /* height: 288px; */
+    /* font-size: 80px; */
+
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.para{
+    width: 634px;
+    height: 90px;
+}
+.btn-primary{
+    border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
