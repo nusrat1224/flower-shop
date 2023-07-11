@@ -38,3 +38,43 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
+.sale{
+    padding: 250px;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+align-items: center;
+width: 100%;
+width: 1922px;
+height: 620px;
+
+}
+.sale1{
+    display: flex;
+}
+.deal{
+    width: 537px;
+    height: 48px;
+    font-family: Lato;
+    font-weight: 800;
+    text-align: center;
+}
+.sign{border-radius: 8px;
+    background: #E55473;
+    width: 155px;
+    height: 64px;
+
+}
+.sale-info{
+    width: 594px;
+    height: 60px;
+}
+.insta{
+    width: 1920px;
+height: 4867px;
+background: #FFF;
+align-items: center;
+width:100%;
+}
+.insta2{
+    text-align: center;
+}
